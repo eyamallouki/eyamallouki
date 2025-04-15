@@ -6,11 +6,15 @@
 
 🧠 I thrive in **Agile environments**, enjoy tackling complex challenges, and have a soft spot for AI-driven projects that simplify lives. My most recent project? A full-featured **electronic medical records platform** with intelligent PDF processing.
 
-🛠️ Tech I ❤️:
-- **Frameworks**: Django, Angular, Spring Boot, .NET  
-- **DevOps**: Docker, Jenkins, Grafana, GitHub Actions  
-- **AI**: OCR, NLP  
-- **Tools**: SonarQube, Nexus, Git, UML
+## 👨‍💻 Languages & Frameworks
+![Django](...) ![Angular](...) ![Spring Boot](...) ![.NET](...) ![TypeScript](...) ![Python](...) ![C](...)
+
+## 🛢️ Databases
+![PostgreSQL](...) ![MySQL](...)
+
+## ⚙️ DevOps & Tools
+![Docker](...) ![Jenkins](...) ![Grafana](...) ![SonarQube](...) ![GitHub](...)
+
 
 🌍 Languages: Arabic 🇹🇳 | French 🇫🇷 | English 🇬🇧  
 📬 Let’s connect: [LinkedIn](https://linkedin.com/in/malloukiEya) | 📧 malloukieya31@gmail.com
