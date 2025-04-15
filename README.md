@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👩‍💻 About Me
 
-<!--
-**eyamallouki/eyamallouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm **Eya Mallouki**, a software engineer with honors, passionate about building **innovative full-stack applications** and integrating **AI solutions** like OCR & NLP into real-world platforms.
 
-Here are some ideas to get you started:
+🚀 Skilled in **Django**, **Angular**, and **Spring Boot** , I love crafting clean architectures — whether it's **microservices**, **modular**, or **monolithic** — and bringing ideas to life with a strong DevOps mindset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I thrive in **Agile environments**, enjoy tackling complex challenges, and have a soft spot for AI-driven projects that simplify lives. My most recent project? A full-featured **electronic medical records platform** with intelligent PDF processing.
+
+🛠️ Tech I ❤️:
+- **Frameworks**: Django, Angular, Spring Boot, .NET  
+- **DevOps**: Docker, Jenkins, Grafana, GitHub Actions  
+- **AI**: OCR, NLP  
+- **Tools**: SonarQube, Nexus, Git, UML
+
+🌍 Languages: Arabic 🇹🇳 | French 🇫🇷 | English 🇬🇧  
+📬 Let’s connect: [LinkedIn](https://linkedin.com/in/malloukiEya) | 📧 malloukieya31@gmail.com
